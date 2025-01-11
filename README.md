@@ -1,5 +1,5 @@
 
-# Telco Customer Churn Analysis and Prediction
+# Telecom Customer Churn Analysis and Prediction
 
 ## Overview
 
